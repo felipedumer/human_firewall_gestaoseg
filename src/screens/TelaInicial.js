@@ -70,7 +70,7 @@ const TelaInicialScreen = ({navigation}) => {
             />
           </View>
           <View style={{padding: 20}}>
-            <Text>Desenvolvido por: Felipe Dumer e Isabela Sparadari</Text>
+            <Text>Desenvolvido por: Felipe Dumer e Isabele Spadari</Text>
           </View>
         </View>
       </ScrollView>
